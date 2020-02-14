@@ -1,0 +1,22 @@
+{
+    "token": "NTQ5NjAwNDcxNTg5ODQ3MDQw.XLw2kg.M04b9kW2-ebjzfsxSpqaTpasXOE",
+    "prefix": "<>",
+    "rainbowdelay": 1000,
+    "rainbowcommand": "rainbow",
+    "rainbowstop": "stoprgb",
+    "rainbowrole": [
+        "#9400D3",
+        "#4B0082",
+        "#0000FF",
+        "#00FF00",
+        "#FFFF00",
+        "#FF7F00",
+        "#FF0000"
+    ],
+    "messageresponse": {
+        "missingperm": "I need permission 'ADMINISTRATOR' to execute this action.",
+        "success": "Let's start the party!!!",
+        "rainbowstop": "Ok rainbow is over :v:",
+        "rolenotfound": "The requested role you typed was not found."
+    }
+}
